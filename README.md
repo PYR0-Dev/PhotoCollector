@@ -75,3 +75,5 @@ JPEG, JPG, PNG, GIF, BMP, TIFF, TIF, WebP, SVG, ICO, HEIC, HEIF, AVIF, MP4, AVI,
 ---
 
 > 💡 **Tip:** Try experimenting with the script to learn how Python interacts with the file system. You can extend `SUPPORTED_EXTENSIONS` or `EXCLUDED_FOLDERS` at the top of `src/main.py` to customise behaviour without touching any other logic!
+
+---
